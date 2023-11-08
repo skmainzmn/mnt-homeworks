@@ -51,7 +51,7 @@ ansible-playbook site.yml -i inventory/prod.yml --ask-vault-pass
 
 ## 9.
 
-Я так и не понял, что от меня хотят :)
+Команда `ansible-doc -t connection -l` выводит список плагинов для подключения к локальной ноде.
 
 ## 10.
 
